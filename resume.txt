@@ -1,0 +1,125 @@
+
+
+ABU MD SADAT HOSSAIN
+
+
+------------------------------------------------------------------------
+
+  Specialties: Golang, Python, Linux, Docker
+  Master in Information Technology
+
+------------------------------------------------------------------------
+
+
+Education
+
+2016-2018 (expected)
+
+    MSC, INFORMATION TECHNOLOGY; Institute of Information Technology
+    Dhaka University (Dhaka)
+
+    _Thesis title: 12 Factor Note Application with Micro service
+    Architecture_
+
+2006-2010
+
+    BSC, ELECTRONICS & COMMUNICATION ENGINEERING; Khulna University
+    Khulna
+
+    _Minor: Networking_
+
+2003-2005
+
+    HSC, HIGHER SECONDARY CERTIFICATE; Notre Dame College Dhaka
+
+    _Major: Science_
+
+2003
+
+    SSC, SECONDARY SCHOOL CERTIFICATE; St. Gregory’s High School Dhaka
+
+    _Major: Science_
+
+
+Experience
+
+ALPHA:CLOUD3 SOLUTION
+
+At Cloud3 we develop Modern Cloud Native Application. We also involve in
+implementing Energy efficient hybrid infra-structure solution for
+customer’s on premise :
+
+-   Implemented a Wireless Internet Service Provider (WISP) for our
+    client at Homna Cable TV Network
+
+DEVELOPER AND SYSTEM ADMIN (CONTRACTOR)
+
+For our IVR, Call Center and CRM for Sanofi Bangladesh Limited Patient
+Support Program Dhaka, my job was to deliver a CRM(Customer relationship
+management) for better patient management.
+
+-   Developed an API server to communicate with Patient Database with
+    Python and PostgreSQL
+
+SENIOR ADMINISTRATIVE OFFICER:DELTA LIFE INSURANCE DHAKA
+
+Delta Life Insurance is the largest AAA rated Insurance Company of
+Bangladesh
+
+-   Developed the official web front for the company.
+
+
+Technical Experience
+
+Certification
+
+    These are the official Certification I have achieved
+
+    -   Red Hat Certified Server Administrator
+    -   Solar Photo Voltaic Energy Technology
+
+Greenfield Project
+
+    These projects are taken as my Greenfield projects to demonstrate
+    and explore different technologies
+
+    -   12 Factor Note application with Micro Service Architecture
+        MITnotes
+
+Open Source
+    I am interested in couple of open source projects like Kubernetes
+
+Programming Languages
+    GOLANG My first choice of language is Golang which is a compiled,
+    statically typed language in the tradition of Algol and C. I started
+    with Golang in 2016 with 1.6
+    PYTHON I started with Python in the late 2015 through Django. Later
+    I have been introduced to Flask, Both of them quickly became my
+    choice of framework for web development.
+
+    ELIXIR is a functional, concurrent, general-purpose programming
+    language that runs on the Erlang virtual machine. I have been
+    introduced to in the late 2016 with Phoenix. I am still learning it
+    as my first functional language.
+
+    Basic knowledge of C++, JAVA, JAVASCRIPT, ELM
+
+
+Activities and Interests
+
+Sports
+    Cricket, Lawn Tennis and Football
+
+Hobbies
+    Backpacked in Australia, Music and Drawing
+
+Activities
+    I was a active member of NDSC. Won couple of prizes on campus fair.
+
+
+Other
+
+-   Human Languages:
+
+    -   Bangla (native speaker)
+    -   English

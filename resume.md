@@ -70,6 +70,7 @@ Technical Experience
 Certification
 :   These are the official Certification I have achieved
 
+    * [TestDome Python](https://www.testdome.com/cert/2szxgref7g)
     * Red Hat Certified Server Administrator
     * Solar Photo Voltaic Energy Technology
 

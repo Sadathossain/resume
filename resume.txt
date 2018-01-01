@@ -75,6 +75,7 @@ Certification
 
     These are the official Certification I have achieved
 
+    -   TestDome Python
     -   Red Hat Certified Server Administrator
     -   Solar Photo Voltaic Energy Technology
 

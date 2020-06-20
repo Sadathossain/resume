@@ -7,6 +7,7 @@ Abu Md Sadat Hossain
 >  DevOps Engineer
 
 ---
+
 Experience
 ----------
 
@@ -74,7 +75,7 @@ Technical Experience
 --------------------
 Open Source Contribution
 :   I am a contributing member of open source projects like
-    [Kubernetes](https://kubernetes.io/)
+    [Kubernetes](https://kubernetes.io/),
     [Cloud Native Computing Foundation](https://www.cncf.io/)
 
     * I have been granted as attendee for [KubeCon 2016](https://www.cncf.io/blog/2016/07/05/kubecon-2016/), Amsterdam, organized by [Cloud Native Computing Foundation](https://www.cncf.io/), with the scholarship provided by [Linux Foundation](https://www.linuxfoundation.org/).

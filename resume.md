@@ -3,10 +3,45 @@ Abu Md Sadat Hossain
 
 ----
 
->  Specialties: Golang, Python, Linux, Docker\
->  Master in Information Technology
+>  Specialties: Golang, Python, ES6, Linux, Docker\
+>  DevOps Engineer
 
 ---
+Experience
+----------
+
+**DevOps Engineer:ImagineRadio**
+
+At [ImagineRadio](http://imagineradio.io/) we associate music with moments and moments with emotions - the emotions that define us. So, we have tried to produce playlists for every moment to connect to every emotion on the spectrum:
+
+* Implemented state of the art open source projects like [React Native](https://reactnative.dev/) to develop and deliver multi-platform app to our users.
+
+
+**alpha:Cloud3 Solution**
+
+At [Cloud3](https://facebook.com/cloud3bd) we develop Modern Cloud
+Native Application. We also involve in implementing Energy efficient
+hybrid infra-structure solution for customer's on premise :
+
+* Implemented a Wireless Internet Service Provider (WISP) for our client
+  at [Homna Cable TV Network](https://www.facebook.com/homnacabletv/)
+
+
+**Developer and System Admin (Contractor)**
+
+For our IVR, Call Center and CRM for Sanofi Bangladesh Limited Patient
+Support Program Dhaka, my job was to deliver a CRM(Customer relationship
+management) for better patient management.
+
+* Developed an API server to communicate with Patient Database with
+  Python and PostgreSQL
+
+**Senior Administrative Officer:Delta Life Insurance Dhaka**
+
+Delta Life Insurance is the largest AAA rated Insurance Company of Bangladesh
+
+* Developed the official web front for the company.
+
 
 Education
 ---------
@@ -35,37 +70,14 @@ Education
 
     *Major: Science*
 
-
-Experience
-----------
-
-**alpha:Cloud3 Solution**
-
-At [Cloud3](https://facebook.com/cloud3bd) we develop Modern Cloud
-Native Application. We also involve in implementing Energy efficient
-hybrid infra-structure solution for customer's on premise :
-
-* Implemented a Wireless Internet Service Provider (WISP) for our client
-  at [Homna Cable TV Network](https://www.facebook.com/homnacabletv/)
-
-
-**Developer and System Admin (Contractor)**
-
-For our IVR, Call Center and CRM for Sanofi Bangladesh Limited Patient
-Support Program Dhaka, my job was to deliver a CRM(Customer relationship
-management) for better patient management.
-
-* Developed an API server to communicate with Patient Database with
-  Python and PostgreSQL
-
-**Senior Administrative Officer:Delta Life Insurance Dhaka**
-
-Delta Life Insurance is the largest AAA rated Insurance Company of Bangladesh
-
-* Developed the official web front for the company.
-
 Technical Experience
 --------------------
+Open Source Contribution
+:   I am a contributing member of open source projects like
+    [Kubernetes](https://kubernetes.io/)
+    [Cloud Native Computing Foundation](https://www.cncf.io/)
+
+    * I have been granted as attendee for [KubeCon 2016](https://www.cncf.io/blog/2016/07/05/kubecon-2016/), Amsterdam, organized by [Cloud Native Computing Foundation](https://www.cncf.io/), with the scholarship provided by [Linux Foundation](https://www.linuxfoundation.org/).
 
 Certification
 :   These are the official Certification I have achieved
@@ -79,11 +91,6 @@ Greenfield Project
     explore different technologies
 
     * 12 Factor Note application with Micro Service Architecture [MITnotes](https://github.com/Sadathossain/mitnotes)
-
-
-Open Source
-:   I am interested in couple of open source projects like
-    [Kubernetes](https://kubernetes.io/)
 
 Programming Languages
 :   **Golang**

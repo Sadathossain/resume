@@ -16,7 +16,13 @@ Experience
 At [ImagineRadio](http://imagineradio.io/) we associate music with moments and moments with emotions - the emotions that define us. So, we have tried to produce playlists for every moment to connect to every emotion on the spectrum:
 
 * Implemented state of the art open source projects like [React Native](https://reactnative.dev/) to develop and deliver multi-platform app to our users.
+* Integrated couple of RN community libraries like admob, onesignal, sentry, firebase etc
+* Written fail-over technique, ip based geo restriction and some of the core business logic.
 
+**Commit-Timeline**
+
+* [ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)](https://sadathossain.github.io/commit-timeline/imagineradio)
+* [ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)](https://sadathossain.github.io/commit-timeline/imagineradio-web)
 
 **alpha:Cloud3 Solution**
 

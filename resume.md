@@ -1,5 +1,4 @@
 ---
-title: Resume::Sadat Hossain
 header-includes:
     <meta name="title" content="Resume of Sadat Hossain">
     <meta name="description" content="This document contains resume/curriculum vitae/CV of Abu Md Sadat Hossain(in2sadt)">

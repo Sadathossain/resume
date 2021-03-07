@@ -25,6 +25,7 @@ pandoc --from markdown --to docx -o resume.docx resume.md
 
 *  HTML
 ```bash
+pandoc --standalone -c static/css/style.css --from markdown --to html -o index.html resume.md
 pandoc --standalone -c static/css/style.css --from markdown --to html -o resume.html resume.md
 pandoc --standalone -c static/css/style.css --metadata pagetitle="Resume of Sadat Hossain" --from markdown --to html -o index.html resume.md
 ```

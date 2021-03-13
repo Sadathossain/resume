@@ -1,8 +1,9 @@
+
 Abu Md Sadat Hossain
 
 ------------------------------------------------------------------------
 
-  Specialties: Golang, Python, ES6, Linux, Docker
+  Specialties: Javascript, React, React-Native, Golang, Docker
   DevOps Engineer
   sadat.hossain@hotmail.com
   +8801747367559
@@ -15,19 +16,40 @@ DevOps Engineer:ImagineRadio
 
 At ImagineRadio we associate music with moments and moments with
 emotions - the emotions that define us. So, we have tried to produce
-playlists for every moment to connect to every emotion on the spectrum:
+playlists for every moment to connect to every emotion on the spectrum.
+To ensure that, Our technical Stack comprised of
+Django-Rest-Framework(DRF) and React-Native(RN) for cross-platform app
+delivery. As a startup, My journey with IR mostly has been delivery
+oriented and feature centric around these 3 key criteria:
 
--   Implemented state of the art open source projects like React Native
-    to develop and deliver multi-platform app to our users.
--   Integrated couple of RN community libraries like admob, onesignal,
-    sentry, firebase etc
--   Written fail-over technique, ip based geo restriction and some of
-    the core business logic.
+-   React Native
+    -   Integrated and Maintained couple of React Native community
+        libraries like React Native Track Player, OneSignal, Sentry,
+        admob, firebase etc
+    -   Implemented Segmented Audio/Video consumption with HLS
+    -   Fixed some of the major bug issues with React Native Track
+        Player for iOS
+    -   Implemented IP-based geo restriction, Client-Side Failover and
+        Some core business logic.
+-   ReactJS
+    -   Developed web front-end for ImagineRadio-WEB
+    -   Implemented CMS integration identical to App backend.
+    -   Also Implemented Segmented Audio/Video consumption with HLS
+    -   Implemented IP-based geo restriction and Some core business
+        logic.
+-   Operations
+    -   Implemented Let’s Encrypt for enabling HTTPS.
+    -   Implemented Content-Serving-Policy for Segmented audio/video
+        data with HLS
+    -   Deploy and Maintain ImagineRadio-WEB
 
 Commit-Timeline
 
--   ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)
--   ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)
+Commit-Timeline Provides a simple insight of my commit-data for
+different projects here at ImagineRadio *
+ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)
+*
+ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)
 
 alpha:Cloud3 Solution
 

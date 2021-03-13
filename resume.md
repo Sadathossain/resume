@@ -19,7 +19,7 @@ Abu Md Sadat Hossain
 
 ----
 
->  Specialties: Golang, Python, ES6, Linux, Docker\
+>  Specialties: Javascript, React, React-Native, Golang, Docker\
 >  DevOps Engineer\
 >  [sadat.hossain@hotmail.com](mailto:sadat.hossain@hotmail.com)\
 >  [+8801747367559](tel:+8801747367559)
@@ -31,16 +31,28 @@ Experience
 
 **DevOps Engineer:ImagineRadio**
 
-At [ImagineRadio](http://imagineradio.io/) we associate music with moments and moments with emotions - the emotions that define us. So, we have tried to produce playlists for every moment to connect to every emotion on the spectrum:
+At [ImagineRadio](http://imagineradio.io/) we associate music with moments and moments with emotions - the emotions that define us. So, we have tried to produce playlists for every moment to connect to every emotion on the spectrum. To ensure that, Our technical Stack comprised of Django-Rest-Framework(DRF) and React-Native(RN) for cross-platform app delivery. As a startup, My journey with IR mostly has been delivery oriented and feature centric around these 3 key criteria:
 
-* Implemented state of the art open source projects like [React Native](https://reactnative.dev/) to develop and deliver multi-platform app to our users.
-* Integrated couple of RN community libraries like admob, onesignal, sentry, firebase etc
-* Written fail-over technique, ip based geo restriction and some of the core business logic.
+* [React Native](https://reactnative.dev/)
+  * Integrated and Maintained couple of [React Native](https://reactnative.dev/) community libraries like [React Native Track Player](https://github.com/react-native-kit/react-native-track-player), [OneSignal](https://github.com/OneSignal/react-native-onesignal), [Sentry](https://docs.sentry.io/platforms/react-native/), [admob](https://github.com/sbugert/react-native-admob), [firebase](https://rnfirebase.io/) etc
+  * Implemented Segmented Audio/Video consumption with [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+  * Fixed some of the major bug issues with [React Native Track Player](https://github.com/react-native-kit/react-native-track-player) for iOS
+  * Implemented IP-based geo restriction, Client-Side Failover and Some core business logic.
+* [ReactJS](https://reactjs.org/)
+  * Developed web front-end for [ImagineRadio-WEB](https://imagineradio.com.bd/)
+  * Implemented CMS integration identical to App backend.
+  * Also Implemented Segmented Audio/Video consumption with [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+  * Implemented IP-based geo restriction and Some core business logic.
+* Operations
+  * Implemented [Let's Encrypt](https://letsencrypt.org/) for enabling HTTPS.
+  * Implemented Content-Serving-Policy for Segmented audio/video data with [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+  * Deploy and Maintain [ImagineRadio-WEB](https://imagineradio.com.bd/)
 
 **Commit-Timeline**
 
-* [ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)](https://sadathossain.github.io/commit-timeline/imagineradio)
-* [ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)](https://sadathossain.github.io/commit-timeline/imagineradio-web)
+[Commit-Timeline](https://sadathossain.github.io/commit-timeline/) Provides a simple insight of my commit-data for different projects here at [ImagineRadio](http://imagineradio.io/)
+  * [ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)](https://sadathossain.github.io/commit-timeline/imagineradio)
+  * [ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)](https://sadathossain.github.io/commit-timeline/imagineradio-web)
 
 **alpha:Cloud3 Solution**
 

@@ -51,8 +51,9 @@ At [ImagineRadio](http://imagineradio.io/) we associate music with moments and m
 **Commit-Timeline**
 
 [Commit-Timeline](https://sadathossain.github.io/commit-timeline/) Provides a simple insight of my commit-data for different projects here at [ImagineRadio](http://imagineradio.io/)
-  * [ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)](https://sadathossain.github.io/commit-timeline/imagineradio)
-  * [ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)](https://sadathossain.github.io/commit-timeline/imagineradio-web)
+
+* [ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)](https://sadathossain.github.io/commit-timeline/imagineradio)
+* [ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)](https://sadathossain.github.io/commit-timeline/imagineradio-web)
 
 **alpha:Cloud3 Solution**
 

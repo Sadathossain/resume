@@ -46,10 +46,10 @@ oriented and feature centric around these 3 key criteria:
 Commit-Timeline
 
 Commit-Timeline Provides a simple insight of my commit-data for
-different projects here at ImagineRadio *
-ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)
-*
-ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)
+different projects here at ImagineRadio
+
+-   ImagineRadio(https://sadathossain.github.io/commit-timeline/imagineradio)
+-   ImagineRadio-Web(https://sadathossain.github.io/commit-timeline/imagineradio-web)
 
 alpha:Cloud3 Solution
 

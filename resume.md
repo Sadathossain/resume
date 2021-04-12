@@ -13,6 +13,9 @@ header-includes:
     <meta property="twitter:description" content="This document contains resume/curriculum vitae/CV of Abu Md Sadat Hossain(in2sadt)">
     <meta property="twitter:image" content="https://raw.githubusercontent.com/Sadathossain/resume/master/static/img/metaLogo.jpg">
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" sizes="any">
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+    </style>
 ---
 Abu Md Sadat Hossain
 ====================
@@ -84,7 +87,7 @@ Delta Life Insurance is the largest AAA rated Insurance Company of Bangladesh
 Education
 ---------
 
-2016-2018 (expected)
+2016-2018
 :   **MSc, Information Technology**; Institute of Information Technology
     Dhaka University (Dhaka)
 

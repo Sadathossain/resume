@@ -34,3 +34,8 @@ pandoc --standalone -c static/css/style.css --from markdown --to html -o index.h
 ```bash
 pandoc -s -o resume.pdf resume.md
 ```
+
+*  ALL-in-1
+```bash
+pandoc --standalone --from markdown+smart --to plain -o resume.txt resume.md && pandoc --from markdown --to docx -o resume.docx resume.md && pandoc --standalone -c static/css/style.css --metadata pagetitle="Resume::Sadat Hossain" --from markdown --to html -o index.html resume.md && pandoc --standalone -c static/css/style.css --metadata pagetitle="Resume::Sadat Hossain" --from markdown --to html -o resume.html resume.md && pandoc -s -o resume.pdf resume.md && echo "\nALL-DONE"
+```

@@ -1,4 +1,7 @@
 
+
+
+
 Abu Md Sadat Hossain
 
 ------------------------------------------------------------------------
@@ -78,7 +81,7 @@ Bangladesh
 
 Education
 
-2016-2018 (expected)
+2016-2018
 
     MSc, Information Technology; Institute of Information Technology
     Dhaka University (Dhaka)

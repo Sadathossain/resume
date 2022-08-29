@@ -6,14 +6,42 @@ Abu Md Sadat Hossain
 
 ------------------------------------------------------------------------
 
-  Specialties: Javascript, React, React-Native, Golang, Docker
-  DevOps Engineer
+  Specialties: Javascript, ReactJS, NodeJS, React-Native
+  Aspirations: Golang, K8S, IaaS, Distributed Systems
+  Software Engineer
   sadat.hossain@hotmail.com
-  +8801747367559
+  +8801747367559, +8801825445048
 
 ------------------------------------------------------------------------
 
 Experience
+
+Senior Software Engineer:Strativ AB
+
+Strativ AB provides tailored IT solutions which strengthens the
+competitiveness of its’ clients such as Docty AB, which is one of the
+leading healthcare provider in Sweden. My experience with Strativ
+evolves around 4 of the major services offered by Docty:
+
+-   Docty
+    -   Development and maintenance of the Docty app built with React
+        Native, which helps to track patient records.
+-   Dermly
+    -   Development and maintenance of the Dermly app built with React
+        Native, which helps nurses to diagnosis the patient with
+        potential skin cancer threat.
+-   Kroppscheckerna
+    -   Development and maintenance of the Kroppscheckerna app built
+        with React Native, which helps nurses to diagnosis the patient
+        with potential acne/rosacea threat.
+-   Vaccina
+    -   Development and maintenance of the Vaccina web front-end built
+        with ReactJS, which provides vaccinations against covid-19,
+        influenza, pneumococci, TBE, chickenpox, hepatitis and shingles
+        at 65 locations in Sweden.
+-   Operations
+    -   Implemented fastlane to automate the iOS deployment.
+    -   Implemented Private distribution with iOS via redemption code.
 
 DevOps Engineer:ImagineRadio
 
@@ -63,22 +91,6 @@ customer’s on premise :
 -   Implemented a Wireless Internet Service Provider (WISP) for our
     client at Homna Cable TV Network
 
-Developer and System Admin (Contractor)
-
-For our IVR, Call Center and CRM for Sanofi Bangladesh Limited Patient
-Support Program Dhaka, my job was to deliver a CRM(Customer relationship
-management) for better patient management.
-
--   Developed an API server to communicate with Patient Database with
-    Python and PostgreSQL
-
-Senior Administrative Officer:Delta Life Insurance Dhaka
-
-Delta Life Insurance is the largest AAA rated Insurance Company of
-Bangladesh
-
--   Developed the official web front for the company.
-
 Education
 
 2016-2018
@@ -111,42 +123,32 @@ Education
 Technical Experience
 
 Open Source Contribution
+    As a contributing member of Kubernetes, Linux Foundation had granted
+    me a scholarship for attending KubeCon 2016, Amsterdam, organized by
+    Cloud Native Computing Foundation.
 
-    I am a contributing member of open source projects like Kubernetes,
-    Cloud Native Computing Foundation
+Certifications :
 
-    -   I have been granted as attendee for KubeCon 2016, Amsterdam,
-        organized by Cloud Native Computing Foundation, with the
-        scholarship provided by Linux Foundation.
+-   TestDome Python
+-   Red Hat Certified Server Administrator
+-   Solar Photo Voltaic Energy Technology
 
-Certification
+Other Programming Languages:
 
-    These are the official Certification I have achieved
+Golang My first choice of language is Golang which is a compiled,
+statically typed language in the tradition of Algol and C. I started
+with Golang in 2016 with 1.6
 
-    -   TestDome Python
-    -   Red Hat Certified Server Administrator
-    -   Solar Photo Voltaic Energy Technology
+Python I started with Python in the late 2015 through Django. Later I
+have been introduced to Flask, Both of them quickly became my choice of
+framework for web development.
 
-Greenfield Project
+Elixir is a functional, concurrent, general-purpose programming language
+that runs on the Erlang virtual machine. I have been introduced to in
+the late 2016 with Phoenix. I am still learning it as my first
+functional language.
 
-    These projects are taken as my Greenfield projects to demonstrate
-    and explore different technologies
-
-    -   12 Factor Note application with Micro Service Architecture
-        MITnotes
-
-Programming Languages
-    Golang My first choice of language is Golang which is a compiled,
-    statically typed language in the tradition of Algol and C. I started
-    with Golang in 2016 with 1.6
-    Python I started with Python in the late 2015 through Django. Later
-    I have been introduced to Flask, Both of them quickly became my
-    choice of framework for web development.
-    Elixir is a functional, concurrent, general-purpose programming
-    language that runs on the Erlang virtual machine. I have been
-    introduced to in the late 2016 with Phoenix. I am still learning it
-    as my first functional language.
-    Basic knowledge of C++, Java, Javascript, Elm
+: Basic knowledge of C++, Java, Javascript, Elm
 
 Activities and Interests
 

@@ -35,9 +35,6 @@ header-includes: <meta name="title" content="Resume of Sadat Hossain">
 
 [ZAAG SYSTEMS LTD](https://zaagsys.com/) unlocks the potential it's client website with their skilled front-end developers. We create captivating user interfaces and ensure smooth functionality, delivering exceptional web experiences for your audience.
 
-- [Project TrulyLocal for builder.ai](https://www.builder.ai/)
-  - Development and maintenance of a Food delivery app built with [React Native]
-
 **Senior Software Engineer:Strativ AB**
 
 [Strativ AB](https://strativ.se/) provides tailored IT solutions which
